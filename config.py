@@ -1,6 +1,6 @@
 
 # Токен бота
-API_TOKEN = '7475593158:AAFOIVYhf68vhGwvjOkdUnXyjs6eZh0KtYg'
+API_TOKEN = ''
 
 # Имя базы данных
 DB_NAME = 'quiz_bot.db'
